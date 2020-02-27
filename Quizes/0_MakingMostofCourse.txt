@@ -1,0 +1,34 @@
+In order to get the most out of this course, there are a few things I need to mention.
+
+Code Examples. Throughout this course I use Sublime as my text editor. When working with the sample files, feel free to use any text editor of your choice.
+
+Browser Based Examples. You will notice throughout the course my JavaScript examples are focused on browser environments, specifically the Chrome browser that hosts the V8 engine. This is the JavaScript Engine that interprets the JavaScript code. At times I will mention Node.js, which also uses the V8 engine. Know that the JavaScript code covered in this course also applies to Node and other browsers even though they use a different JavaScript engine.
+
+During the course I will frequently open the JavaScript console that comes with Chrome, for executing simple lines of code or for examining results. You can access the JavaScript console in Chrome by pressing Command + Option + J on a Mac or Control + Shift + J on Windows or Linux.
+
+If you are using a different browser, use the commands indicated:
+
+Firefox: 
+
+Windows: Ctrl + Shift + K
+
+Mac: Cmd + Opt + K
+
+IE & Edge
+
+F12 and then click on the Console tab
+
+Safari (You must first enable the Show Develop menu)
+
+Cmd + Opt + C
+
+
+Sample Files. Whenever I'm presenting JavaScript code for a concept in the course, I normally provide that code as a download. I recommend that you download the files and follow along or try it on your own. This is important in helping you grasp the concepts presented.
+
+Exercises. This course contains several exercises. Each exercise will have a getting started lecture and then a second, follow-up lecture in which I will go through the exercise with you. Download the exercise files, and begin with the start folder once you have watched the getting started lecture. You can always look at the files in the finished folder or watch the second topic to see how you are doing. You may find it helpful to do exercises more than once.
+
+
+
+Review Links. There are certain JavaScript concepts that are important to understand in order to grasp functional programming topics. When concepts are important I provide a review by linking to tutorials I've published on my YouTube channel. If you are unsure of the JavaScript concept, make sure you review those tutorials.
+
+Let's get started!
